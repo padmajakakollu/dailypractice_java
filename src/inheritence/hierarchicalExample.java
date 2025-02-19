@@ -1,4 +1,4 @@
-package inheritencejava;
+package inheritence;
 
 
 class shape {
